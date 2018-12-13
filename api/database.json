@@ -1,0 +1,28 @@
+{
+  "legos": [
+    {
+      "creatorName": "Leah",
+      "legoName": "star",
+      "legoShape": "square",
+      "legoColor": "3",
+      "id": 5
+    },
+    {
+      "creatorName": "Leah",
+      "legoName": "wand",
+      "legoColor": "red",
+      "legoShape": "rectangle",
+      "id": 6
+    }
+  ],
+  "colors": [
+    {
+      "1": "Red",
+      "2": "Green",
+      "3": "Yellow",
+      "4": "Blue",
+      "5": "Orange",
+      "6": "Black"
+    }
+  ]
+}
