@@ -13,6 +13,13 @@
       "legoColor": "red",
       "legoShape": "rectangle",
       "id": 6
+    },
+    {
+      "creatorName": "Leah",
+      "legoName": "log",
+      "legoColor": "6",
+      "legoShape": "large rectangle",
+      "id": 7
     }
   ],
   "colors": [
